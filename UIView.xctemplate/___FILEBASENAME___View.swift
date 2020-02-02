@@ -23,7 +23,7 @@ class ___VARIABLE_moduleName___View: UIView {
 extension ___VARIABLE_moduleName___View {
     
     /**
-     * Setup views
+     Setup views
      */
     private func setupViews() {
         //__ Configure your view here
@@ -34,7 +34,7 @@ extension ___VARIABLE_moduleName___View {
     }
     
     /**
-     * Configure subviews
+     Configure subviews
      */
     private func configureSubviews() {
         //__ Configure all the subviews here
@@ -46,7 +46,7 @@ extension ___VARIABLE_moduleName___View {
 extension ___VARIABLE_moduleName___View {
     
     /**
-     * Add subviews
+     Add subviews
      */
     private func addSubviews() {
         //__ Add all the subviews here
